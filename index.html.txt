@@ -1,0 +1,31 @@
+!DOCTYPE html
+html lang=ru
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleУННВtitle
+    style
+        body, html {
+            margin 0;
+            padding 0;
+            height 100%;
+            display flex;
+            justify-content center;
+            align-items center;
+            background-color black;
+        }
+        video {
+            max-width 100%;
+            max-height 100%;
+        }
+    style
+head
+body
+
+video controls autoplay muted
+    source src=file:///C:/Users/ILYAS/Desktop/Новая%20папка/IMG.MP4 type=videomp4
+    Ваш браузер не поддерживает HTML5 видео.
+video
+
+body
+html
